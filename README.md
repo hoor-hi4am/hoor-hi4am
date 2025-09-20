@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hoor Hesham</h1>
+<h1 align="center">Hi, I'm Hoor Hisham</h1>
 <h3 align="center">Computer Science Student | Competitive Programmer | Learning Flutter & UI/UX </h3>
 
 <p align="center">
@@ -40,7 +40,7 @@ class HoorHesham {
 ## Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,dart,flutter,html,css,js,sqlite,firebase,vscode,git,github,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,dart,flutter,html,css,js,sqlite,firebase,vscode,git,github,figma" />
 </p>
 
 ---
