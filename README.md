@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Hoor Hesham 👋</h1>
-<h3 align="center">Computer Science Student 🎓 | Competitive Programmer 🏆 | Learning Flutter & UI/UX 📱</h3>
+<h1 align="center">Hi, I'm Hoor Hesham</h1>
+<h3 align="center">Computer Science Student | Competitive Programmer | Learning Flutter & UI/UX </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/linkedin.com/in/hoor-hisham-167944304"><img src="https://img.shields.io/badge/Hoor%20Hesham-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -10,7 +10,7 @@
 
 <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
 
-## 🚀 About Me
+## About Me
 
 ```dart
 class HoorHesham {
@@ -22,23 +22,22 @@ class HoorHesham {
     "Flutter Basics",
     "UI/UX Design",
     "Git & GitHub",
-    "Linux Exploration"
   ];
 }
 ````
 
 ---
 
-## 🔥 Highlights
+## Highlights
 
-* 🏆 Passionate about **Competitive Programming** (C++/DSA)
-* 📱 Currently focusing on **Flutter & UI/UX**
-* 💡 Interested in **building creative and clean apps**
-* 🌱 Always eager to **learn, practice, and improve**
+- Passionate about **Competitive Programming** (C++/DSA)
+- Currently focusing on **Flutter & UI/UX**
+- Interested in **building creative and clean apps**
+- Always eager to **learn, practice, and improve**
 
 ---
 
-## 🧰 Tech Toolbox
+## Tech Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,dart,flutter,html,css,js,sqlite,firebase,vscode,git,github,figma,linux" />
@@ -55,15 +54,14 @@ class HoorHesham {
 
 ---
 
-## 🎯 Focus Areas
+## Focus Areas
 
 * ✅ **Competitive Programming** (C++, DSA, problem-solving)
 * ✅ **Flutter basics & UI/UX**
 * ✅ **Clean and creative projects**
-* ✅ Exploring **Linux & Dev Tools**
 
 ---
 
-## ⚡️ Motto
+## Motto
 
-> **“Code, Learn, Repeat 🚀”**
+> **“‏وَأَن لَّيْسَ لِلإِنسَانِ إِلاَّ مَا سَعَى, وَأَنَّ سَعْيَهُ سَوْفَ يُرَى , ثُمَّ يُجْزَاهُ الْجَزَاء الأَوْفَى”**
