@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Hoor Hisham</h1>
-<h3 align="center">Computer Science Student | Competitive Programmer | Learning Flutter & UI/UX </h3>
+<h3 align="center">Computer Science Student | Competitive Programmer | Android Development Enthusiast</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/linkedin.com/in/hoor-hisham-167944304"><img src="https://img.shields.io/badge/Hoor%20Hesham-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/hoor-hisham-167944304"><img src="https://img.shields.io/badge/Hoor%20Hesham-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hourhesham9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -12,17 +12,17 @@
 
 ## About Me
 
-```dart
+```java
 class HoorHesham {
-  String role = "CS Student | Competitive Programmer";
-  String learning = "Flutter & UI/UX";
-  List<String> skills = [
-    "Problem Solving (C++)",
-    "Data Structures & Algorithms",
-    "Flutter Basics",
-    "UI/UX Design",
-    "Git & GitHub",
-  ];
+    String role = "CS Student | Competitive Programmer";
+    String learning = "Android Development (Java/Kotlin) & UI/UX";
+    List<String> skills = List.of(
+        "Problem Solving (C++)",
+        "Data Structures & Algorithms",
+        "Android Fundamentals",
+        "UI/UX Design",
+        "Git & GitHub"
+    );
 }
 ````
 
@@ -30,17 +30,17 @@ class HoorHesham {
 
 ## Highlights
 
-- Passionate about **Competitive Programming** (C++/DSA)
-- Currently focusing on **Flutter & UI/UX**
-- Interested in **building creative and clean apps**
-- Always eager to **learn, practice, and improve**
+* Passionate about **Competitive Programming** (C++/DSA)
+* Currently exploring **Android App Development**
+* Focused on writing **clean and user-centered designs**
+* Always eager to **learn, build, and grow**
 
 ---
 
 ## Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,dart,flutter,html,css,js,sqlite,firebase,vscode,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,python,html,css,js,sqlite,firebase,vscode,androidstudio,git,github,figma" />
 </p>
 
 ---
@@ -56,12 +56,14 @@ class HoorHesham {
 
 ## Focus Areas
 
-* ✅ **Competitive Programming** (C++, DSA, problem-solving)
-* ✅ **Flutter basics & UI/UX**
-* ✅ **Clean and creative projects**
+* ✅ **Competitive Programming** (C++, DSA, Problem Solving)
+* ✅ **Android App Development**
+* ✅ **Clean and Creative UI Design**
 
 ---
 
 ## Motto
 
 > **“‏وَأَن لَّيْسَ لِلإِنسَانِ إِلاَّ مَا سَعَى, وَأَنَّ سَعْيَهُ سَوْفَ يُرَى , ثُمَّ يُجْزَاهُ الْجَزَاء الأَوْفَى”**
+
+```
